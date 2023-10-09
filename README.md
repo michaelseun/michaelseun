@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaelseun
-- 👀 I’m interested in ... HTML  CSS, JS
+- 👀 I’m interested in ... HTML  CSS, JS, a passionate coder, learner and a gamer
 - 🌱 I’m currently learning ... Website development and design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... oluwaseunmichael478@gmail.com
